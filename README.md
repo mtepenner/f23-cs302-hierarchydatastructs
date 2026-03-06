@@ -19,13 +19,13 @@ To compile and run this project, you will need a standard C++ compiler (such as 
    ```sh
    g++ main.cpp celebrity.cpp ARR.cpp CLL.cpp -o comic_con
 
-```
+   ```
 
 3. **Run the executable:**
-```sh
-./comic_con
-
-```
+   ```sh
+   ./comic_con
+   
+   ```
 
 
 
